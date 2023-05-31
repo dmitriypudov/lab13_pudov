@@ -1,0 +1,11 @@
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\bin\Debug\laba13_pudov.exe.config
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\bin\Debug\laba13_pudov.exe
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\bin\Debug\laba13_pudov.pdb
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.csproj.AssemblyReference.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.Form1.resources
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.Properties.Resources.resources
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.csproj.GenerateResource.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.csproj.CoreCompileInputs.cache
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.exe
+C:\Users\ЧЕЙСИЛА\Desktop\Визуализация многомерных данных\laba13_Savinchenko\laba13_pudov\laba13_pudov\obj\Debug\laba13_pudov.pdb
